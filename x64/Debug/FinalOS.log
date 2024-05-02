@@ -1,0 +1,8 @@
+﻿  FinalOs.cpp
+C:\Users\josia\source\repos\FinalOS\FinalOS\FinalOs.cpp(62,1): warning C4715: 'Printer::receiveData': not all control paths return a value
+C:\Users\josia\source\repos\FinalOS\FinalOS\FinalOs.cpp(95,1): warning C4715: 'Keyboard::receiveData': not all control paths return a value
+C:\Users\josia\source\repos\FinalOS\FinalOS\FinalOs.cpp(122,1): warning C4715: 'Mouse::receiveData': not all control paths return a value
+C:\Users\josia\source\repos\FinalOS\FinalOS\FinalOs.cpp(156,1): warning C4715: 'Speaker::receiveData': not all control paths return a value
+C:\Users\josia\source\repos\FinalOS\FinalOS\FinalOs.cpp(187,1): warning C4715: 'FlashDrive::receiveData': not all control paths return a value
+C:\Users\josia\source\repos\FinalOS\FinalOS\FinalOs.cpp(218,1): warning C4715: 'Monitor::receiveData': not all control paths return a value
+  FinalOS.vcxproj -> C:\Users\josia\source\repos\FinalOS\x64\Debug\FinalOS.exe

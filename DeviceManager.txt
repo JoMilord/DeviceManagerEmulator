@@ -1,0 +1,11 @@
+A PRINTER OfficePrinter1 101 1
+A KEYBOARD OfficeKeyboard1 102 1
+A MOUSE OfficeMouse1 103 1
+A SPEAKER OfficeSpeaker1 104 1
+A FLASHDRIVE OfficeFlashDrive1 105 1
+A MONITOR OfficeMonitor1 106 1
+I
+S Hello world!
+C 103
+P 102 I am only typing 
+D 101
